@@ -1,0 +1,2 @@
+# Swift-earn
+Earnings points
